@@ -3,7 +3,7 @@
 
 ## 📄 Sobre o Projeto
 
-Este portfólio ,um projeto do curso de Git do Matheus Battisti, coloco em prática minhas habilidades de desenvolvimento front-end. Usei apenas **HTML** e **CSS** para criar uma página simples.
+Este portfólio , um projeto do curso de Git do Matheus Battisti, coloco em prática minhas habilidades de desenvolvimento front-end. Usei apenas **HTML** e **CSS** para criar uma página simples.
 
 ## 🚀 Tecnologias Utilizadas
 
